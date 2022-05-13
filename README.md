@@ -4,10 +4,6 @@
 
 <div>
   <p>Languages and tools</p>
-  <img height="30" src="icons/vscode.svg">
-  <img height="30" src="icons/html.svg">
-  <img height="30" src="icons/css.svg">
-  <img height="30" src="icons/bootstrap.svg">
   <img height="30" src="icons/figma.svg">
   <img height="30" src="icons/js.svg">
   <img height="30" src="icons/react.svg">
